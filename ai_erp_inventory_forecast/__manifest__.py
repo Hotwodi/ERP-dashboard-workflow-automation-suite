@@ -27,6 +27,6 @@
         'views/ai_erp_inventory_forecast_views.xml',
     ],
     'installable': True,
-    'application': True,
+    'application': False,
     'auto_install': False,
 }
