@@ -1,6 +1,7 @@
 {
     'name': 'AI-powered ERP Dashboard + Workflow Automation Suite',
     'version': '18.0.1.0.0',
+    'images': ['static/description/cover.png'],
     'category': 'Productivity/AI',
     'summary': 'AI-powered ERP dashboard and workflow automation suite',
     'description': """
