@@ -1,6 +1,6 @@
-# AI Inventory Forecasting & Auto-Replenishment Engine
+﻿# AI Inventory Forecasting & Auto-Replenishment Engine
 
-Odoo 18 module — predict demand and generate purchase orders before stockouts happen.
+Odoo 18 module â€” predict demand and generate purchase orders before stockouts happen.
 
 ## Features
 
@@ -18,4 +18,9 @@ Odoo 18 module — predict demand and generate purchase orders before stockouts 
 
 ## Author
 
-SoftaiDev — https://softaidev.pages.dev
+SoftaiDev â€” https://softaidev.pages.dev
+## Demo Video
+
+Watch a full demonstration of this module's features and quality:
+
+[https://youtu.be/A6ziG72MSH4](https://youtu.be/A6ziG72MSH4)
