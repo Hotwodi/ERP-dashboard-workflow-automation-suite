@@ -13,7 +13,7 @@
     'author': 'SoftaiDev',
     'website': 'https://softaidev.pages.dev',
     'license': 'LGPL-3',
-    'price': 649.99,
+    'price': 650.00,
     'currency': 'USD',
     'depends': ['base', 'web', 'mail'],
     'data': [
